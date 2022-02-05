@@ -4,32 +4,520 @@ title: Calendar
 uid: 38548b49-a82c-5b2f-af80-786bfd1e6246
 ---
 
-| SES # | TOPICS | LABS | KEY DATES |
-| --- | --- | --- | --- |
-| 1 | Introduction to transport, control volumes, and time-scales | &nbsp; |
-| 2 | Flow profiles and turbulence |  {{< br >}}{{< br >}} Lab 1: Entekhabi {{< br >}}{{< br >}} Sources of uncertainty {{< br >}}{{< br >}} Relative humidity {{< br >}}{{< br >}}  | &nbsp; |
-| 3 | Logarithmic profile | &nbsp; | Homework 1 due |
-| 4 |  {{< br >}}{{< br >}} Reactor models {{< br >}}{{< br >}} Residence time distribution {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Lab 2: Nepf {{< br >}}{{< br >}} Propagation of error velocity measurements {{< br >}}{{< br >}}  | &nbsp; |
-| 5 | Wetland circulation | &nbsp; | Homework 2 due |
-| 6 |  {{< br >}}{{< br >}} Introduction to diffusion {{< br >}}{{< br >}} Differential form of transport equation {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Lab 3: Nepf {{< br >}}{{< br >}} Wetland circulation residence time {{< br >}}{{< br >}}  | &nbsp; |
-| 7 | Instantaneous point source |  {{< br >}}{{< br >}} Lab 4: Nepf {{< br >}}{{< br >}} Dispersion in soil column {{< br >}}{{< br >}}  | Homework 3 due |
-| 8 | Accounting for boundaries; Peclet number | &nbsp; |
-| 9 | Turbulence and diffusion |  {{< br >}}{{< br >}} Lab 5: Entekhabi {{< br >}}{{< br >}} Groundwater pollutant {{< br >}}{{< br >}} Transport modeling {{< br >}}{{< br >}}  | Homework 4 due |
-| 10 | Quiz 1 | &nbsp; |
-| 11 | Continuous release 1-D: steady and unsteady | &nbsp; |
-| 12 | Dispersion |  {{< br >}}{{< br >}} Lab 6: Nepf {{< br >}}{{< br >}} Flume tracer study diffusivity/dispersion {{< br >}}{{< br >}}  | Homework 5 due |
-| 13 |  {{< br >}}{{< br >}} Dispersion (cont.) {{< br >}}{{< br >}} Continuous release two and three dimensions {{< br >}}{{< br >}}  | &nbsp; |
-| 14 | Diffusivity in rivers |  {{< br >}}{{< br >}} Lab 7: Entekhabi {{< br >}}{{< br >}} Infiltration in unsaturated soil column {{< br >}}{{< br >}}  | &nbsp; |
-| 15 | Control volume with reactions; dissolution | &nbsp; | Homework 6 due |
-| 16 | Constant concentration boundary condition |  {{< br >}}{{< br >}} Lab 8: Nepf / Gschwend {{< br >}}{{< br >}} Dissolution: transport across Laminar sub-layer {{< br >}}{{< br >}}  | &nbsp; |
-| 17 | Air-water exchange | &nbsp; | Homework 7 due |
-| 18 | Air-water exchange (cont.) |  {{< br >}}{{< br >}} Lab 9: Entekhabi {{< br >}}{{< br >}} Dilution gaging {{< br >}}{{< br >}}  | &nbsp; |
-| 19 | Air-Water exchange (cont.) |  {{< br >}}{{< br >}} Lab 10: Nepf / Gschwend {{< br >}}{{< br >}} Air-water exchange {{< br >}}{{< br >}}  | &nbsp; |
-| 20 | Partitioning | &nbsp; | Homework 8 due |
-| 21 | Quiz 2 | &nbsp; |
-| 22 | Retardation factor | &nbsp; |
-| 23 | Retardation factor (cont.) |  {{< br >}}{{< br >}} Lab 11: Entekhabi {{< br >}}{{< br >}} Hydrograph calibration using GIS {{< br >}}{{< br >}}  | &nbsp; |
-| 24 | Particle transport | &nbsp; | Homework 9 due |
-| 25 | Colloidal transport | &nbsp; |
-| 26 | Lake physics | &nbsp; |
-| 27 | Quiz 3 | &nbsp; |
+{{< tableopen >}}
+
+{{< tableclose >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+LABS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to transport, control volumes, and time-scales
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Flow profiles and turbulence
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lab 1: Entekhabi
+
+Sources of uncertainty
+
+Relative humidity
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Logarithmic profile
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Reactor models
+
+Residence time distribution
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lab 2: Nepf
+
+Propagation of error velocity measurements
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Wetland circulation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Introduction to diffusion
+
+Differential form of transport equation
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lab 3: Nepf
+
+Wetland circulation residence time
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Instantaneous point source
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lab 4: Nepf
+
+Dispersion in soil column
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Accounting for boundaries; Peclet number
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Turbulence and diffusion
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lab 5: Entekhabi
+
+Groundwater pollutant
+
+Transport modeling
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Continuous release 1-D: steady and unsteady
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Dispersion
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lab 6: Nepf
+
+Flume tracer study diffusivity/dispersion
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 5 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Dispersion (cont.)
+
+Continuous release two and three dimensions
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Diffusivity in rivers
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lab 7: Entekhabi
+
+Infiltration in unsaturated soil column
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Control volume with reactions; dissolution
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 6 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Constant concentration boundary condition
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lab 8: Nepf / Gschwend
+
+Dissolution: transport across Laminar sub-layer
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Air-water exchange
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 7 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Air-water exchange (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lab 9: Entekhabi
+
+Dilution gaging
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Air-Water exchange (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lab 10: Nepf / Gschwend
+
+Air-water exchange
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Partitioning
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 8 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 2
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Retardation factor
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Retardation factor (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lab 11: Entekhabi
+
+Hydrograph calibration using GIS
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Particle transport
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 9 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Colloidal transport
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Lake physics
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 3
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
