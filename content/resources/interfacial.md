@@ -5,6 +5,7 @@ description: Lecture notes on reaction and interfacial exchange, reaction-advect
   to a solid.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-061-transport-processes-in-the-environment-fall-2008/5533466a0381ec8788ffff66248ce091_interfacial.pdf
 file_type: application/pdf
+parent_uid: f5eb15ee-ec29-db1a-0157-e22a35620c38
 resourcetype: Document
 title: 9. Reaction and interfacial exchange
 uid: 5533466a-0381-ec87-88ff-ff66248ce091

@@ -6,6 +6,7 @@ description: Lecture notes on boundary conditions, the no-flux boundary conditio
   and the definition of mixing time.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-061-transport-processes-in-the-environment-fall-2008/d5bf987b8305fda998d991b6e55de5c6_lec_04.pdf
 file_type: application/pdf
+parent_uid: f5eb15ee-ec29-db1a-0157-e22a35620c38
 resourcetype: Document
 title: 4. Boundary conditions
 uid: d5bf987b-8305-fda9-98d9-91b6e55de5c6

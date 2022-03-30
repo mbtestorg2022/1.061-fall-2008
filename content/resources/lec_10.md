@@ -4,6 +4,7 @@ description: Lecture notes on transport of particles, particle diffusion, instan
   point source of particle, and settling.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-061-transport-processes-in-the-environment-fall-2008/d6b135914ef6d79b1c4db0dc131fc2a5_lec_10.pdf
 file_type: application/pdf
+parent_uid: f5eb15ee-ec29-db1a-0157-e22a35620c38
 resourcetype: Document
 title: 10. Transport of particles
 uid: d6b13591-4ef6-d79b-1c4d-b0dc131fc2a5

@@ -8,6 +8,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 759eb2c0-3b27-c1e9-d627-73a8ec89d278
 resourcetype: Image
 title: Random Walk Animation
 uid: e93ef361-13d8-2b5f-4533-1eaae6fe7443

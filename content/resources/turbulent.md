@@ -6,6 +6,7 @@ description: Lecture notes on velocity profiles and turbulence, the basics of tu
   turbulent diffusivity in a channel.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-061-transport-processes-in-the-environment-fall-2008/d63b88158634db61d2715480d7b7da4d_turbulent.pdf
 file_type: application/pdf
+parent_uid: f5eb15ee-ec29-db1a-0157-e22a35620c38
 resourcetype: Document
 title: 7. Velocity profiles and turbulence
 uid: d63b8815-8634-db61-d271-5480d7b7da4d

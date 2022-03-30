@@ -13,7 +13,7 @@ Directions: click on the image to begin the animation.
 Random Walk Animation
 ---------------------
 
-[![Diffusion animation.](/courses/civil-and-environmental-engineering/1-061-transport-processes-in-the-environment-fall-2008/lecture-notes/1-anim/movie.jpg)](/ans7870/1/1.061/f04/animation/walk2.avi)
+[{{< resource "e93ef361-13d8-2b5f-4533-1eaae6fe7443" >}}](/ans7870/1/1.061/f04/animation/walk2.avi)
 
 Diffusion animation.
 

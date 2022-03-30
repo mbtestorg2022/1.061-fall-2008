@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: f5eb15ee-ec29-db1a-0157-e22a35620c38
 resourcetype: Image
 title: santiam_dye_2_sm
 uid: fa654738-1911-fdd8-1a10-8cb293f8fbb3
