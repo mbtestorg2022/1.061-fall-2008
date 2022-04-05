@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: f5eb15ee-ec29-db1a-0157-e22a35620c38
 title: 1. Conceptual Model of Diffusion
 uid: 759eb2c0-3b27-c1e9-d627-73a8ec89d278
@@ -13,7 +17,7 @@ Directions: click on the image to begin the animation.
 Random Walk Animation
 ---------------------
 
-[{{< resource "e93ef361-13d8-2b5f-4533-1eaae6fe7443" >}}](/ans7870/1/1.061/f04/animation/walk2.avi)
+[![Diffusion animation.](/courses/civil-and-environmental-engineering/1-061-transport-processes-in-the-environment-fall-2008/lecture-notes/1-anim/movie.jpg)](/ans7870/1/1.061/f04/animation/walk2.avi)
 
 Diffusion animation.
 

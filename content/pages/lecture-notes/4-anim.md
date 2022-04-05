@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: f5eb15ee-ec29-db1a-0157-e22a35620c38
 title: 4. Boundary Conditions
 uid: fd9298f4-a6bd-56cb-475d-8b0ecfc59f95

@@ -8,6 +8,10 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 1. Conceptual Model of Diffusion
+parent_type: CourseSection
 parent_uid: 759eb2c0-3b27-c1e9-d627-73a8ec89d278
 resourcetype: Image
 title: Random Walk Animation

@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: f5eb15ee-ec29-db1a-0157-e22a35620c38
 title: 2. Conservation of Mass
 uid: a52b38ce-352b-df17-e048-3a87ecb3db29
@@ -15,7 +19,7 @@ Directions: Click on the images to begin the animation.
 A) Illustration of Total Derivative: Steady Temperature Field
 -------------------------------------------------------------
 
-[{{< resource "60cf7946-1388-0197-8eaf-9f0f1cdb6aab" >}}](/ans7870/1/1.061/f04/animation/tdnoi.avi)
+[![Illustration of total derivitive: steady temperature field.](/courses/civil-and-environmental-engineering/1-061-transport-processes-in-the-environment-fall-2008/lecture-notes/anim1.jpg)](/ans7870/1/1.061/f04/animation/tdnoi.avi)
 
 Illustration of total derivative: steady temperature field.
 
@@ -26,7 +30,7 @@ This animation shows a one-dimensional system with a spatial gradient of tempera
 B) Illustration of Total Derivative: Unsteady Temperature Field
 ---------------------------------------------------------------
 
-[{{< resource "f1bf7173-5423-e89c-69d2-5a3a64968d43" >}}](/ans7870/1/1.061/f04/animation/rdyesi.avi)
+[![Illustration of total derivitive: unsteady temperature field.](/courses/civil-and-environmental-engineering/1-061-transport-processes-in-the-environment-fall-2008/lecture-notes/anim2.jpg)](/ans7870/1/1.061/f04/animation/rdyesi.avi)
 
 Illustration of total derivative: unsteady temperature field.
 
@@ -37,7 +41,7 @@ This animation shows a one-dimensional system with an unsteady temperature field
 C) Steady, Spatially Accelerating Flow in a Pipe
 ------------------------------------------------
 
-[{{< resource "74d19695-805d-33ab-2e78-170b00b26ffc" >}}](/ans7870/1/1.061/f04/animation/MassAnim3.AVI)
+[![Steady, spatially accelerating flow in a pipe.](/courses/civil-and-environmental-engineering/1-061-transport-processes-in-the-environment-fall-2008/lecture-notes/anim3.jpg)](/ans7870/1/1.061/f04/animation/MassAnim3.AVI)
 
 Steady, spatially accelerating flow in a pipe.
 
