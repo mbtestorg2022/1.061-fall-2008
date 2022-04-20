@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/4d8b195a7270bb063d6ad4d0cc397dd4_WALK2.AVI
+file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-061-transport-processes-in-the-environment-fall-2008/4d8b195a7270bb063d6ad4d0cc397dd4_WALK2.AVI
 file_type: application/octet-stream
 learning_resource_types:
 - Lecture Notes
